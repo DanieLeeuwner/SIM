@@ -1,0 +1,19 @@
+{
+  "update": true,
+  "version": "v1.1",
+  "repo": "https://raw.githubusercontent.com/DanieLeeuwner/SIM/master",
+  "files": [
+    "DirectShowLib-2005.dll",
+    "ICSharpCode.SharpZipLib.dll",
+    "NPOI.dll",
+    "NPOI.OOXML.dll",
+    "NPOI.OOXML.xml",
+    "NPOI.OpenXml4Net.dll",
+    "NPOI.OpenXml4Net.xml",
+    "NPOI.OpenXmlFormats.dll",
+    "NPOI.xml",
+    "PdfSharp.dll",
+    "StudentInfo.exe",
+    "update_service.exe"
+  ]
+}
