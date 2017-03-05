@@ -3,8 +3,10 @@
   "version": "v1.1",
   "repo": "https://raw.githubusercontent.com/DanieLeeuwner/SIM/master",
   "files": [
+    "AutoUpdater.dll",
     "DirectShowLib-2005.dll",
     "ICSharpCode.SharpZipLib.dll",
+    "Newtonsoft.Json.dll",
     "NPOI.dll",
     "NPOI.OOXML.dll",
     "NPOI.OOXML.xml",
@@ -12,8 +14,10 @@
     "NPOI.OpenXml4Net.xml",
     "NPOI.OpenXmlFormats.dll",
     "NPOI.xml",
+    "package.json",
     "PdfSharp.dll",
     "StudentInfo.exe",
+    "swop.exe",
     "update_service.exe"
   ]
 }
