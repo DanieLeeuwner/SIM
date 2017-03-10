@@ -1,6 +1,6 @@
 {
   "update": true,
-  "version": "v2.1",
+  "version": "v2.2",
   "repo": "https://raw.githubusercontent.com/DanieLeeuwner/SIM/master",
   "files": [
     "AutoUpdater.dll",
