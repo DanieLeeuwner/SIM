@@ -1,6 +1,6 @@
 {
   "update": true,
-  "version": "v2.3",
+  "version": "v2.4",
   "repo": "https://raw.githubusercontent.com/DanieLeeuwner/SIM/master",
   "files": [
     "AutoUpdater.dll",
@@ -17,5 +17,5 @@
     "swop.exe",
     "update_service.exe"
   ],
-  "author": "Danie Leeuwner (dleeuwner@gmail.com)"
+  "author": "Danie Leeuwner (student.information.manager@gmail.com)"
 }
